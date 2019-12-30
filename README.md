@@ -1,4 +1,4 @@
-# Design And Analysis Of Algorithms (CSC-303)
+# Design And Analysis Of Algorithms (CSC-314)
 ## We will be implementing algorithms viz. iterative, recursive, divide-and-conquer, dynamic, greedy etc. in C# and analysing them to tie up with theoritical Big-Oh of the same.
 
 ## Nuts and bolts
