@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Design.Analysis.Of.Algoritms\\Iterative\\Iterative.csproj",
+      "projectUniqueName": "D:\\Design.And.Analysis.Of.Algorithms\\Iterative\\Iterative.csproj",
       "projectName": "Iterative",
-      "projectPath": "D:\\Design.Analysis.Of.Algoritms\\Iterative\\Iterative.csproj",
+      "projectPath": "D:\\Design.And.Analysis.Of.Algorithms\\Iterative\\Iterative.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Design.Analysis.Of.Algoritms\\Iterative\\obj\\",
+      "outputPath": "D:\\Design.And.Analysis.Of.Algorithms\\Iterative\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
